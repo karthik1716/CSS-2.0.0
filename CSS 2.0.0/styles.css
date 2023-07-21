@@ -1,0 +1,246 @@
+.card{
+    border: 1px solid rgb(216, 216, 216);
+    border-radius: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 30%;
+    padding-bottom: 60px;
+    margin: 50px auto;
+    position: relative;
+}
+
+.img-food{
+
+    border-radius:20px;
+    width: 437px;
+    height: 280px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding-bottom: 0px;
+    
+
+}
+
+.head{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.loc{
+   margin-top: 10px;
+   margin-bottom: 25px;
+   padding-left: 15px;
+   padding-right: 15px;
+}
+
+.max{
+    width: 80px; 
+    position: absolute;
+    left: 15px;
+    top: 10px
+}
+
+.para{
+    position: absolute;
+    top: 0px;
+    right: 30px;
+    left: 120px;
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+
+.content{
+    padding-left: 15px;
+    position: relative;
+}
+
+.promoted{
+    position: absolute;
+    top: -380px;
+    left: 25px;
+    border: 0px;
+    font-size: medium;
+    padding: 5px 10px;
+    background-color: rgba(138, 138, 138, 0.474);
+    color: white;
+    border-radius: 5px;
+}
+
+.hr{
+    width: 93%;
+    border: 1px solid rgb(233, 233, 233);
+}
+
+.offer{
+    position: absolute;
+    top: -152px;
+    left:10px;
+    font-size: 18px;
+    color: white;
+    background-color: rgb(29, 93, 253);
+    border: 0;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.time{
+    position: absolute;
+    top:-155px ;
+    right: 25px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 0;
+    font-weight: 500;
+    font-size: 16px;
+    background-color: rgba(255, 255, 255, 0.864);
+}
+
+
+/* ----------------------------------------------------------------------------------------------------------------------- */
+
+.india{
+    width: 40%;
+    height: 320px;
+    border: 1px solid lightgray;
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 15px;
+    margin: 50px auto;
+}
+
+.ind{
+
+    width: 100%;
+    height: 320px;
+    border-radius: 15px;
+    
+}
+
+.cont{
+    position: absolute;
+    text-align: center;
+    color: white;
+    top: 150px;
+    margin-left: 500px;
+
+}
+.lor{
+    margin: 0;
+    font-weight: 100;
+
+}
+
+.exp{
+    margin: 0;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+
+.explore{
+    position: absolute;
+    border: 0;
+    padding: 15px 20px;
+    background-color: white;
+    font-size: 12px;
+    font-weight: 600;
+    border-radius: 50px;
+    left: 710px;
+    top: 250px;
+}
+
+/* ----------------------------------------------- */
+
+.zomato{
+    position: relative;
+    width: 65%;
+    height: 350px;
+    border: 1px solid lightgrey;
+    margin: 80px auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.back{
+
+    height: 350px;
+    width: 100%;
+    margin-bottom: 0;
+    
+
+}
+
+.zom{
+
+    width: 25%;
+    position: absolute;
+    left: 380px;
+    top: 50px;
+}
+
+.discover{
+    position: absolute;
+    top: 115px;
+    left: 210px;
+    color: white;
+    font-size: 30px;
+
+}
+
+.searchbar{
+    position: absolute;
+    left: 400px;
+    top: 300px;
+}
+
+.search{
+    border: 0px;
+    padding: 24px 360px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.chennai{
+    position: absolute;
+    color: rgba(0, 0, 0, 0.588);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    bottom: -1px;
+    right: 200px;
+}
+
+.sc-rbbb40-0-iwHbVQ{
+    position: absolute;
+    left: 220px;
+    bottom: 17px;
+}
+
+.sc-rbbb40-0-iRDDBk{
+    position: absolute;
+    left: 15px;
+    bottom: 17px;
+}
+
+.sc-rbbb40-1-iFnyeo-sc-idjmjb-cnNJYF{
+
+    position: absolute;
+    left:170px;
+    bottom: 17px;
+}
+
+.csk{
+    position: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    left: 445px;
+    top: 310px;
+    color: rgba(0, 0, 0, 0.61);
+    font-size: 16px;
+}
+
+.vertical{
+      position: absolute;
+      border-left: 2px solid rgba(0, 0, 0, 0.41);
+      height: 25px;
+      top: 310px;
+      left: 595px;
+}
